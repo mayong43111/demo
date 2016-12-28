@@ -1,0 +1,8 @@
+{
+    "../node_modules/bootstrap/dist/css/bootstrap.min.css": "//cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap-theme.css",
+    "../node_modules/html5shiv/dist/html5shiv.js": "//cdn.bootcss.com/html5shiv/r29/html5.min.js",
+    "../node_modules/respond.js/dest/respond.min.js": "//cdn.bootcss.com/respond.js/1.4.2/respond.min.js",
+    "../node_modules/requirejs/require.js": "//cdn.bootcss.com/require.js/2.3.2/require.min.js",
+    "../node_modules/angular/angular.js": "//cdn.bootcss.com/angular.js/1.2.32/angular.js",
+    "../node_modules/angular-ui-router/release/angular-ui-router.js": "//cdn.bootcss.com/angular-ui-router/1.0.0-beta.3/angular-ui-router.min.js"
+}
